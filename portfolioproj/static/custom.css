@@ -1,0 +1,9 @@
+p.description{
+  display: block;
+  height: 3rem !important;
+  overflow: hidden;
+}
+
+p.description.show {
+  height: 3rem !important;
+}
